@@ -1,7 +1,7 @@
 # DS-and-ML-mini-projects
-Titanic Survival Prediction
+## Titanic Survival Prediction
 
-Project Overview
+### Project Overview
 
 This project predicts passenger survival on the Titanic using machine learning models. The dataset contains various features such as age, gender, class, and ticket fare, which help determine survival chances.
 
